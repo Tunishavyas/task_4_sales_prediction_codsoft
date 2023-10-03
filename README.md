@@ -1,0 +1,2 @@
+# task_4_sales_prediction_codsoft
+Task 4 : Sales Prediction Using Python :  Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.
